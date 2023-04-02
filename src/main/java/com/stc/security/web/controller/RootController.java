@@ -13,3 +13,4 @@ public class RootController {
         return "redirect:/profile";
     }
 }
+
